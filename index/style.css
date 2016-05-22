@@ -3,7 +3,7 @@ h1{
 }
 div {
 	background-color: grey;
-	border:black 1px solid;
+	
 	width: 30%;
 	height: 300px;
 	margin-top: 10px;
@@ -46,7 +46,7 @@ p{
     width: 100px;
 	height: 25px;
 	border: black solid 1px;
-	background-color: blue;
+	background-color: #F88E55;
 }	
 .row {
 	width: 100%;
